@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "423558340083",
+    "project_id": "electronic-verification-system",
+    "storage_bucket": "electronic-verification-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423558340083:android:ec8d4873a22f9ff273c686",
+        "android_client_info": {
+          "package_name": "com.example.evs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423558340083-ua6abis43hk60r3jgav6admelvgtrs1i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYplbN4U5bJl8SsjVf9nhasTcehpoXDZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423558340083-ua6abis43hk60r3jgav6admelvgtrs1i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
